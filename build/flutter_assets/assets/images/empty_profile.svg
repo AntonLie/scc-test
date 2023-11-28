@@ -1,0 +1,23 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="128" height="128" fill="#D0D0D0"/>
+<g id="Student Input" clip-path="url(#clip0_0_1)">
+<rect width="1366" height="768" transform="translate(-834 -368)" fill="#F3F3F3"/>
+<g id="Datatable">
+<rect x="-598" y="-232" width="1114" height="616" rx="8" fill="white"/>
+<g id="Avatar">
+<rect width="128" height="128" rx="64" fill="#E2E8F0"/>
+<g id="solid-user" clip-path="url(#clip1_0_1)">
+<path id="Vector" d="M64 71C79.4656 71 92 58.2418 92 42.5C92 26.7582 79.4656 14 64 14C48.5344 14 36 26.7582 36 42.5C36 58.2418 48.5344 71 64 71ZM83.6 78.125H79.9469C75.0906 80.3961 69.6875 81.6875 64 81.6875C58.3125 81.6875 52.9313 80.3961 48.0531 78.125H44.4C28.1687 78.125 15 91.5289 15 108.05V117.312C15 123.213 19.7031 128 25.5 128H102.5C108.297 128 113 123.213 113 117.312V108.05C113 91.5289 99.8313 78.125 83.6 78.125Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1366" height="768" fill="white" transform="translate(-834 -368)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="98" height="114" fill="white" transform="translate(15 14)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,115 @@
+const responseDetailTransaction = {
+  "status": "success",
+  "messageCode": "MUSERR001INF",
+  "message": "Processed Successfully",
+  "processFinishDate": "21-Nov-2023 18:28:12",
+  "data": {
+    "pageNo": 1,
+    "pageSize": 5,
+    "totalDataInPage": 5,
+    "totalData": 10,
+    "totalPages": 2,
+    "listData": [
+      {
+        "no": 1,
+        "itemName": "GT-1244 Panel Sub-assy",
+        "itemId": "6921-bz-370-b0l69210",
+        "nextPoint": "Sugity Creatives",
+        "startPoint": "TMMIN Plant 1",
+        "touchPoint": "TP6, Tools Pairing",
+      },
+      {
+        "no": 2,
+        "itemName": "Item 181123",
+        "itemId": "item6921-bz-370-b0l69210",
+        "nextPoint": "Sugity Creatives",
+        "startPoint": "TMMIN Plant 1",
+        "touchPoint": "TP7, Product Pairing",
+      },
+      {
+        "no": 3,
+        "itemName": "Item 191123",
+        "itemId": "item5821-bz-370-b0l69210",
+        "nextPoint": "Sugity Creatives",
+        "startPoint": "TMMIN Plant 2",
+        "touchPoint": "TP7, Product Pairing",
+      },
+      {
+        "no": 4,
+        "itemName": "Insulator, Exhaust Manifost",
+        "itemId": "123491-bz-370-b0l69210",
+        "nextPoint": "Sugity Creatives",
+        "startPoint": "TMMIN Plant 2",
+        "touchPoint": "TP5, Receiving",
+      },
+      {
+        "no": 5,
+        "itemName": "Handle Assy, FR Door,Opera",
+        "itemId": "83219-bz-370-b0l69210",
+        "nextPoint": "Sugity Creatives",
+        "startPoint": "TMMIN Plant 1",
+        "touchPoint": "TP5, Receiving",
+      },
+    ]
+  }
+};
+const responseDetailTransactionPage2 = {
+  "status": "success",
+  "messageCode": "MUSERR001INF",
+  "message": "Processed Successfully",
+  "processFinishDate": "21-Nov-2023 18:28:12",
+  "data": {
+    "pageNo": 2,
+    "pageSize": 5,
+    "totalDataInPage": 5,
+    "totalData": 10,
+    "totalPages": 2,
+    "listData": [
+      {
+        "no": 6,
+        "itemName": "Throttle Body",
+        "itemId": "92193-bz-370-b0l69210",
+        "nextPoint": "Sugity Creatives",
+        "startPoint": "TMMIN Plant 2",
+        "status": "Move",
+        "touchPoint": "TP6, Tools Pairing",
+      },
+      {
+        "no": 7,
+        "itemName": "Piston and Piston Rings",
+        "itemId": "14212-bz-370-b0l69210",
+        "nextPoint": "Sugity Creatives",
+        "startPoint": "TMMIN Plant 2",
+        "status": "Consume",
+        "touchPoint": "TP6, Tools Pairing",
+      },
+      {
+        "no": 8,
+        "itemName": "Seat Assy, FR RH",
+        "itemId": "lasd012-bz-370-b0l69210",
+        "nextPoint": "Sugity Creatives",
+        "startPoint": "TMMIN Plant 1",
+        "status": "Move",
+        "touchPoint": "TP5, Tools Receiving",
+      },
+      {
+        "no": 9,
+        "itemName": "Exhaust Pipe, Muffler",
+        "itemId": "7011-bz-370-b0l69210",
+        "nextPoint": "Sugity Creatives",
+        "startPoint": "TMMIN Plant 2",
+        "status": "Move",
+        "touchPoint": "TP5, Tools Receiving",
+      },
+      {
+        "no": 10,
+        "itemName": "Seat Belt, Rear Center",
+        "itemId": "7011-azkd-370-b0l69210",
+        "nextPoint": "Sugity Creatives",
+        "startPoint": "TMMIN Plant 2",
+        "status": "Consume",
+        "touchPoint": "TP5, Tools Receiving",
+      },
+    ]
+  }
+};
